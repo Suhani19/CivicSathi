@@ -1,0 +1,6 @@
+{
+  "name": "CivicSathi",
+  "description": "A warm, calm web app helping senior citizens and family caregivers understand confusing letters, medical bills, and government forms.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
